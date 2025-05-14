@@ -63,4 +63,5 @@ endmodule
 ![Screenshot 2025-05-09 160135](https://github.com/user-attachments/assets/1c0d907e-2414-429e-94df-b04d5a14b569)
 
 **RESULTS**
+
 Thus the SERIAL-IN-SERIAL-OUT-SHIFTREGISTER was successfully verified.
